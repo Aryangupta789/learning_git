@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 ignoreFolder    
 *.log          
+=======
+ignoreFolder
+*.git
+*.log
+>>>>>>> main
